@@ -223,7 +223,7 @@ li a {
 /*Store*/
 
 .store-block {
-    padding: 100px 136px;
+    padding: 100px 0;
     background: #F4F3F0;
 }
 
@@ -418,3 +418,6 @@ footer ul a {
     display: flex;
     gap: 20px;
 }
+
+
+@media (max-width: )
