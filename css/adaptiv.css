@@ -1,3 +1,16 @@
+
+@media (max-width: 1200px) {
+    .store-block-card {
+        max-width: 340px;
+    }
+
+    .card-img img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+
 @media (max-width: 1024px) {
 
     .wrapper {
